@@ -1,0 +1,30 @@
+# Build artifacts
+/build/
+/bin/
+
+# Object files and dependency files (in case they end up elsewhere)
+*.o
+*.d
+*.obj
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Compiled binaries (adjust TARGET name if you want to be explicit)
+*.exe
+*.out
+*.a
+*.so
+*.dylib
