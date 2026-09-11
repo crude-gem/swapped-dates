@@ -18,6 +18,9 @@
 *.swo
 *~
 
+# LSP
+compile_commands.json
+
 # OS cruft
 .DS_Store
 Thumbs.db

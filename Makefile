@@ -1,5 +1,5 @@
 # Project settings
-TARGET    := CHANGE_ME
+TARGET    := swapped-dates
 CC        := gcc
 SRC_DIR   := src
 INC_DIR   := include
