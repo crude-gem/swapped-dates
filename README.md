@@ -12,7 +12,8 @@ All make targets:
 - `debug`
 - `release`
 
-By default, `make` will execute the `release` target.
+By default, `make` will execute the `all` target, which, confusingly, only
+executes the `release` target.  Too lazy to change it right now.  (TODO...)
 
 ## Intro
 
