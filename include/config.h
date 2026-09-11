@@ -1,0 +1,9 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define DIGIT_WIDTH 3
+#define HEADER_SPACING (DIGIT_WIDTH+3)
+#define RULE_SPACING (DIGIT_WIDTH+2)
+#define RULE_SIZE (DIGIT_WIDTH+1)
+
+#endif // !CONFIG_H

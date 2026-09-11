@@ -1,5 +1,5 @@
 # Project settings
-TARGET    := CHANGE_ME
+TARGET    := swapped-dates
 CC        := gcc
 SRC_DIR   := src
 INC_DIR   := include
@@ -46,4 +46,8 @@ run: all
 clean:
 	rm -rf $(BUILD_DIR) $(BIN_DIR)
 
+<<<<<<< HEAD
 -include $(DEPS)
+=======
+-include $(DEPS)
+>>>>>>> develop
